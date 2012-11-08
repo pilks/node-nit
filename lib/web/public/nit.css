@@ -40,5 +40,13 @@ h2 {
 
 .done {
     font-style: italic;
+    background-color: #F9F9F9;
 }
 
+.edit-cell {
+    font-style: normal;
+}
+
+.taskRow {
+    cursor: pointer;
+}
