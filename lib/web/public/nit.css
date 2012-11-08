@@ -22,7 +22,8 @@ h2 {
 }
 
 #tasksContainer {
-    margin-left:50px;
+    margin-left:auto;
+    margin-right:auto;
     margin-top:20px;
     width:900px;
 }
